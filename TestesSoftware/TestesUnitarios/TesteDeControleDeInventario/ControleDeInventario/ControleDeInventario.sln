@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleDeInventario", "ControleDeInventario.csproj", "{4C6458B2-7E39-499D-A296-BED4002BDA13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProdutoA.Test", "..\Produto.Test\ProdutoA.Test.csproj", "{ED62001D-F44E-486A-8ADF-FB77BBE2DAFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C6458B2-7E39-499D-A296-BED4002BDA13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C6458B2-7E39-499D-A296-BED4002BDA13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C6458B2-7E39-499D-A296-BED4002BDA13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C6458B2-7E39-499D-A296-BED4002BDA13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED62001D-F44E-486A-8ADF-FB77BBE2DAFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED62001D-F44E-486A-8ADF-FB77BBE2DAFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED62001D-F44E-486A-8ADF-FB77BBE2DAFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED62001D-F44E-486A-8ADF-FB77BBE2DAFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8ECBB3E-F33A-4338-8C03-55A5D2A1B3FB}
+	EndGlobalSection
+EndGlobal

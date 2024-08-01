@@ -7,13 +7,16 @@ namespace Calculos.Test
         [Fact]
         public void SomarDoisNumeros()
         {
+            // Organizar (Arrange)
             var n1 = 5.5;
             var n2 = 1.5;
 
             var valorEsperado = 7;
 
+            // Agir (Act)
             var soma = Calculo.Somar(n1, n2);
 
+            // Provar (Asset)
             Assert.Equal(valorEsperado, soma);
         }
 

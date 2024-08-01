@@ -1,0 +1,15 @@
+C:\Users\24004134870\Desktop\senai-4s\TestesSoftware\TestesUnitarios\TesteDeGerenciamentoDeLivros\GerenciamentoDeLivros\bin\Debug\net8.0\GerenciamentoDeLivros.exe
+C:\Users\24004134870\Desktop\senai-4s\TestesSoftware\TestesUnitarios\TesteDeGerenciamentoDeLivros\GerenciamentoDeLivros\bin\Debug\net8.0\GerenciamentoDeLivros.deps.json
+C:\Users\24004134870\Desktop\senai-4s\TestesSoftware\TestesUnitarios\TesteDeGerenciamentoDeLivros\GerenciamentoDeLivros\bin\Debug\net8.0\GerenciamentoDeLivros.runtimeconfig.json
+C:\Users\24004134870\Desktop\senai-4s\TestesSoftware\TestesUnitarios\TesteDeGerenciamentoDeLivros\GerenciamentoDeLivros\bin\Debug\net8.0\GerenciamentoDeLivros.dll
+C:\Users\24004134870\Desktop\senai-4s\TestesSoftware\TestesUnitarios\TesteDeGerenciamentoDeLivros\GerenciamentoDeLivros\bin\Debug\net8.0\GerenciamentoDeLivros.pdb
+C:\Users\24004134870\Desktop\senai-4s\TestesSoftware\TestesUnitarios\TesteDeGerenciamentoDeLivros\GerenciamentoDeLivros\obj\Debug\net8.0\GerenciamentoDeLivros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24004134870\Desktop\senai-4s\TestesSoftware\TestesUnitarios\TesteDeGerenciamentoDeLivros\GerenciamentoDeLivros\obj\Debug\net8.0\GerenciamentoDeLivros.AssemblyInfoInputs.cache
+C:\Users\24004134870\Desktop\senai-4s\TestesSoftware\TestesUnitarios\TesteDeGerenciamentoDeLivros\GerenciamentoDeLivros\obj\Debug\net8.0\GerenciamentoDeLivros.AssemblyInfo.cs
+C:\Users\24004134870\Desktop\senai-4s\TestesSoftware\TestesUnitarios\TesteDeGerenciamentoDeLivros\GerenciamentoDeLivros\obj\Debug\net8.0\GerenciamentoDeLivros.csproj.CoreCompileInputs.cache
+C:\Users\24004134870\Desktop\senai-4s\TestesSoftware\TestesUnitarios\TesteDeGerenciamentoDeLivros\GerenciamentoDeLivros\obj\Debug\net8.0\GerenciamentoDeLivros.sourcelink.json
+C:\Users\24004134870\Desktop\senai-4s\TestesSoftware\TestesUnitarios\TesteDeGerenciamentoDeLivros\GerenciamentoDeLivros\obj\Debug\net8.0\GerenciamentoDeLivros.dll
+C:\Users\24004134870\Desktop\senai-4s\TestesSoftware\TestesUnitarios\TesteDeGerenciamentoDeLivros\GerenciamentoDeLivros\obj\Debug\net8.0\refint\GerenciamentoDeLivros.dll
+C:\Users\24004134870\Desktop\senai-4s\TestesSoftware\TestesUnitarios\TesteDeGerenciamentoDeLivros\GerenciamentoDeLivros\obj\Debug\net8.0\GerenciamentoDeLivros.pdb
+C:\Users\24004134870\Desktop\senai-4s\TestesSoftware\TestesUnitarios\TesteDeGerenciamentoDeLivros\GerenciamentoDeLivros\obj\Debug\net8.0\GerenciamentoDeLivros.genruntimeconfig.cache
+C:\Users\24004134870\Desktop\senai-4s\TestesSoftware\TestesUnitarios\TesteDeGerenciamentoDeLivros\GerenciamentoDeLivros\obj\Debug\net8.0\ref\GerenciamentoDeLivros.dll

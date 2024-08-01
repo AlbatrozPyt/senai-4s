@@ -1,0 +1,15 @@
+C:\Users\24004134870\Desktop\senai-4s\TestesSoftware\TestesUnitarios\TesteDeValidacaoDeEmail\ValidacaoEmail\bin\Debug\net8.0\ValidacaoEmail.exe
+C:\Users\24004134870\Desktop\senai-4s\TestesSoftware\TestesUnitarios\TesteDeValidacaoDeEmail\ValidacaoEmail\bin\Debug\net8.0\ValidacaoEmail.deps.json
+C:\Users\24004134870\Desktop\senai-4s\TestesSoftware\TestesUnitarios\TesteDeValidacaoDeEmail\ValidacaoEmail\bin\Debug\net8.0\ValidacaoEmail.runtimeconfig.json
+C:\Users\24004134870\Desktop\senai-4s\TestesSoftware\TestesUnitarios\TesteDeValidacaoDeEmail\ValidacaoEmail\bin\Debug\net8.0\ValidacaoEmail.dll
+C:\Users\24004134870\Desktop\senai-4s\TestesSoftware\TestesUnitarios\TesteDeValidacaoDeEmail\ValidacaoEmail\bin\Debug\net8.0\ValidacaoEmail.pdb
+C:\Users\24004134870\Desktop\senai-4s\TestesSoftware\TestesUnitarios\TesteDeValidacaoDeEmail\ValidacaoEmail\obj\Debug\net8.0\ValidacaoEmail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24004134870\Desktop\senai-4s\TestesSoftware\TestesUnitarios\TesteDeValidacaoDeEmail\ValidacaoEmail\obj\Debug\net8.0\ValidacaoEmail.AssemblyInfoInputs.cache
+C:\Users\24004134870\Desktop\senai-4s\TestesSoftware\TestesUnitarios\TesteDeValidacaoDeEmail\ValidacaoEmail\obj\Debug\net8.0\ValidacaoEmail.AssemblyInfo.cs
+C:\Users\24004134870\Desktop\senai-4s\TestesSoftware\TestesUnitarios\TesteDeValidacaoDeEmail\ValidacaoEmail\obj\Debug\net8.0\ValidacaoEmail.csproj.CoreCompileInputs.cache
+C:\Users\24004134870\Desktop\senai-4s\TestesSoftware\TestesUnitarios\TesteDeValidacaoDeEmail\ValidacaoEmail\obj\Debug\net8.0\ValidacaoEmail.sourcelink.json
+C:\Users\24004134870\Desktop\senai-4s\TestesSoftware\TestesUnitarios\TesteDeValidacaoDeEmail\ValidacaoEmail\obj\Debug\net8.0\ValidacaoEmail.dll
+C:\Users\24004134870\Desktop\senai-4s\TestesSoftware\TestesUnitarios\TesteDeValidacaoDeEmail\ValidacaoEmail\obj\Debug\net8.0\refint\ValidacaoEmail.dll
+C:\Users\24004134870\Desktop\senai-4s\TestesSoftware\TestesUnitarios\TesteDeValidacaoDeEmail\ValidacaoEmail\obj\Debug\net8.0\ValidacaoEmail.pdb
+C:\Users\24004134870\Desktop\senai-4s\TestesSoftware\TestesUnitarios\TesteDeValidacaoDeEmail\ValidacaoEmail\obj\Debug\net8.0\ValidacaoEmail.genruntimeconfig.cache
+C:\Users\24004134870\Desktop\senai-4s\TestesSoftware\TestesUnitarios\TesteDeValidacaoDeEmail\ValidacaoEmail\obj\Debug\net8.0\ref\ValidacaoEmail.dll
