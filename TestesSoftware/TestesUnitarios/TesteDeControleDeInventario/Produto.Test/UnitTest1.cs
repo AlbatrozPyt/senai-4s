@@ -28,13 +28,14 @@ namespace ProdutoA.Test
             // Instância um novo produto
             Produto prod1 = new Produto();
             prod1.NomeProduto = "Cachorro";
+            prod1.Qtd = 6;
 
             // Executa a funcao pela segunda vez
             res = Produto.AdicionarProduto(prod1, listaProdutos);
             var ver2 = listaProdutos.FirstOrDefault(x => x.NomeProduto == "Cachorro");
 
             // Verifica se a quantidade do produto foi incrementada
-            Assert.Equal(2, ver2.Qtd);
+            Assert.Equal(7, ver2.Qtd);
 
 
             var ver3 = listaProdutos.FirstOrDefault(x => x.NomeProduto == "Cachorro");

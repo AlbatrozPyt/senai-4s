@@ -22,7 +22,7 @@ namespace ControleDeInventario
             }
             else
             {
-                busca.Qtd += 1;
+                busca.Qtd += prod.Qtd;
             }
 
             return prods;
