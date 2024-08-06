@@ -153,3 +153,5 @@ C:\Users\24004134870\Desktop\senai-4s\TestesSoftware\API\ProductsApiTest.Test\ob
 C:\Users\24004134870\Desktop\senai-4s\TestesSoftware\API\ProductsApiTest.Test\obj\Debug\net8.0\ProductsApiTest.Test.pdb
 C:\Users\24004134870\Desktop\senai-4s\TestesSoftware\API\ProductsApiTest.Test\obj\Debug\net8.0\ProductsApiTest.Test.genruntimeconfig.cache
 C:\Users\24004134870\Desktop\senai-4s\TestesSoftware\API\ProductsApiTest.Test\obj\Debug\net8.0\ref\ProductsApiTest.Test.dll
+C:\Users\24004134870\Desktop\senai-4s\TestesSoftware\API\ProductsApiTest.Test\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\24004134870\Desktop\senai-4s\TestesSoftware\API\ProductsApiTest.Test\bin\Debug\net8.0\Moq.dll

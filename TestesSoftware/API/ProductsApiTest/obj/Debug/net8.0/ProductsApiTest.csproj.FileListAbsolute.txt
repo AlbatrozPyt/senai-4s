@@ -142,3 +142,5 @@ C:\Users\24004134870\Desktop\senai-4s\TestesSoftware\API\ProductsApiTest\obj\Deb
 C:\Users\24004134870\Desktop\senai-4s\TestesSoftware\API\ProductsApiTest\obj\Debug\net8.0\ProductsApiTest.genruntimeconfig.cache
 C:\Users\24004134870\Desktop\senai-4s\TestesSoftware\API\ProductsApiTest\obj\Debug\net8.0\ref\ProductsApiTest.dll
 C:\Users\24004134870\Desktop\senai-4s\TestesSoftware\API\ProductsApiTest\bin\Debug\net8.0\Microsoft.AspNetCore.TestHost.dll
+C:\Users\24004134870\Desktop\senai-4s\TestesSoftware\API\ProductsApiTest\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\24004134870\Desktop\senai-4s\TestesSoftware\API\ProductsApiTest\bin\Debug\net8.0\Moq.dll

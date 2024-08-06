@@ -1,4 +1,8 @@
+using ProductsApiTest.Interfaces;
+
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddScoped<IProductsRepository>();
 
 // Add services to the container.
 
