@@ -1,0 +1,15 @@
+C:\Users\24004134870\Desktop\senai-4s\Revisao\LogicaDeProgramacaoPratica\Ex04\bin\Debug\net8.0\Ex04.exe
+C:\Users\24004134870\Desktop\senai-4s\Revisao\LogicaDeProgramacaoPratica\Ex04\bin\Debug\net8.0\Ex04.deps.json
+C:\Users\24004134870\Desktop\senai-4s\Revisao\LogicaDeProgramacaoPratica\Ex04\bin\Debug\net8.0\Ex04.runtimeconfig.json
+C:\Users\24004134870\Desktop\senai-4s\Revisao\LogicaDeProgramacaoPratica\Ex04\bin\Debug\net8.0\Ex04.dll
+C:\Users\24004134870\Desktop\senai-4s\Revisao\LogicaDeProgramacaoPratica\Ex04\bin\Debug\net8.0\Ex04.pdb
+C:\Users\24004134870\Desktop\senai-4s\Revisao\LogicaDeProgramacaoPratica\Ex04\obj\Debug\net8.0\Ex04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24004134870\Desktop\senai-4s\Revisao\LogicaDeProgramacaoPratica\Ex04\obj\Debug\net8.0\Ex04.AssemblyInfoInputs.cache
+C:\Users\24004134870\Desktop\senai-4s\Revisao\LogicaDeProgramacaoPratica\Ex04\obj\Debug\net8.0\Ex04.AssemblyInfo.cs
+C:\Users\24004134870\Desktop\senai-4s\Revisao\LogicaDeProgramacaoPratica\Ex04\obj\Debug\net8.0\Ex04.csproj.CoreCompileInputs.cache
+C:\Users\24004134870\Desktop\senai-4s\Revisao\LogicaDeProgramacaoPratica\Ex04\obj\Debug\net8.0\Ex04.sourcelink.json
+C:\Users\24004134870\Desktop\senai-4s\Revisao\LogicaDeProgramacaoPratica\Ex04\obj\Debug\net8.0\Ex04.dll
+C:\Users\24004134870\Desktop\senai-4s\Revisao\LogicaDeProgramacaoPratica\Ex04\obj\Debug\net8.0\refint\Ex04.dll
+C:\Users\24004134870\Desktop\senai-4s\Revisao\LogicaDeProgramacaoPratica\Ex04\obj\Debug\net8.0\Ex04.pdb
+C:\Users\24004134870\Desktop\senai-4s\Revisao\LogicaDeProgramacaoPratica\Ex04\obj\Debug\net8.0\Ex04.genruntimeconfig.cache
+C:\Users\24004134870\Desktop\senai-4s\Revisao\LogicaDeProgramacaoPratica\Ex04\obj\Debug\net8.0\ref\Ex04.dll

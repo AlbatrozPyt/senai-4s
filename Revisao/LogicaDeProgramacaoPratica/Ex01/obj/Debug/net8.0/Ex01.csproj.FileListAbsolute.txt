@@ -1,0 +1,15 @@
+C:\Users\24004134870\Desktop\senai-4s\Revisao\LogicaDeProgramacaoPratica\Ex01\bin\Debug\net8.0\Ex01.exe
+C:\Users\24004134870\Desktop\senai-4s\Revisao\LogicaDeProgramacaoPratica\Ex01\bin\Debug\net8.0\Ex01.deps.json
+C:\Users\24004134870\Desktop\senai-4s\Revisao\LogicaDeProgramacaoPratica\Ex01\bin\Debug\net8.0\Ex01.runtimeconfig.json
+C:\Users\24004134870\Desktop\senai-4s\Revisao\LogicaDeProgramacaoPratica\Ex01\bin\Debug\net8.0\Ex01.dll
+C:\Users\24004134870\Desktop\senai-4s\Revisao\LogicaDeProgramacaoPratica\Ex01\bin\Debug\net8.0\Ex01.pdb
+C:\Users\24004134870\Desktop\senai-4s\Revisao\LogicaDeProgramacaoPratica\Ex01\obj\Debug\net8.0\Ex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24004134870\Desktop\senai-4s\Revisao\LogicaDeProgramacaoPratica\Ex01\obj\Debug\net8.0\Ex01.AssemblyInfoInputs.cache
+C:\Users\24004134870\Desktop\senai-4s\Revisao\LogicaDeProgramacaoPratica\Ex01\obj\Debug\net8.0\Ex01.AssemblyInfo.cs
+C:\Users\24004134870\Desktop\senai-4s\Revisao\LogicaDeProgramacaoPratica\Ex01\obj\Debug\net8.0\Ex01.csproj.CoreCompileInputs.cache
+C:\Users\24004134870\Desktop\senai-4s\Revisao\LogicaDeProgramacaoPratica\Ex01\obj\Debug\net8.0\Ex01.sourcelink.json
+C:\Users\24004134870\Desktop\senai-4s\Revisao\LogicaDeProgramacaoPratica\Ex01\obj\Debug\net8.0\Ex01.dll
+C:\Users\24004134870\Desktop\senai-4s\Revisao\LogicaDeProgramacaoPratica\Ex01\obj\Debug\net8.0\refint\Ex01.dll
+C:\Users\24004134870\Desktop\senai-4s\Revisao\LogicaDeProgramacaoPratica\Ex01\obj\Debug\net8.0\Ex01.pdb
+C:\Users\24004134870\Desktop\senai-4s\Revisao\LogicaDeProgramacaoPratica\Ex01\obj\Debug\net8.0\Ex01.genruntimeconfig.cache
+C:\Users\24004134870\Desktop\senai-4s\Revisao\LogicaDeProgramacaoPratica\Ex01\obj\Debug\net8.0\ref\Ex01.dll
