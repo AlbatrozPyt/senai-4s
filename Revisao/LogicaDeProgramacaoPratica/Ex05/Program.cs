@@ -13,9 +13,7 @@ string[] letras = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "
 Console.WriteLine("Escreve um texto:");
 string txt = Console.ReadLine()!;
 
-
 foreach (string l in letras)
 {
     Console.WriteLine($"{l} - {ContaLetras(txt, l)}");
 }
-
