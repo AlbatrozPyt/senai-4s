@@ -1,0 +1,12 @@
+.new-task {
+    justify-self: end;
+    width: 200px;
+    height: 50px;
+    border: 2px solid #FCFCFC;
+    background-color: #6c45ce;
+    font-family: Opens_Sans;
+    font-weight: 700;
+    font-size: 17px;
+    color: #FCFCFC;
+    border-radius: 7px;
+}

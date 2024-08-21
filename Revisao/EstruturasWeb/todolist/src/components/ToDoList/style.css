@@ -1,0 +1,30 @@
+.todo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 745px;
+    height: 495px;
+    background: #1e123b;
+    border-radius: 2px;
+    overflow-y: scroll;
+}
+
+.todo h1 {
+    font-family: Opens_Sans;
+    font-weight: 700;
+    font-size: 24px;
+    color: #FCFCFC;
+    margin-top: 40px;
+}
+
+.todo .search {
+    width: 90%;
+    height: 43px;
+    background: transparent;
+    padding: 0 10px;
+    border: 2px solid #FCFCFC;
+    border-radius: 2px;
+    color: #FCFCFC;
+    margin: 20px 0;
+    outline: none;
+}
