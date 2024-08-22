@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react"
 import "./style.css"
 import { ToDo } from "../ToDo/ToDo"
+import searchIcon from "../../assets/img/search.svg"
 import moment from "moment"
 import { tz } from "moment-timezone"
 
@@ -38,13 +39,13 @@ export const ToDoList = ({ data = [], setArray, setIndex, setMode, setModalUpdat
 
     useEffect(() => {
         if (search !== "") {
-            const newData = data.filter(x => x.description == search)
+            const newData = data.filter(x => x.description.toLowerCase().includes(search.toLowerCase()))
             setArraySearch(newData)
         }
         else {
             setArraySearch(data)
         }
-        
+
         months.forEach((x, index) => {
             if ((moment().tz("America/Sao_Paulo").month()) === index) {
                 setMonth(x)
@@ -61,9 +62,14 @@ export const ToDoList = ({ data = [], setArray, setIndex, setMode, setModalUpdat
 
     return (
         <section className="todo">
-            <h1>{week}, <span style={{color: "#8758ff"}}>{moment().tz("America/Sao_Paulo").date()}</span> de {month}</h1>
+            <h1>{week}, <span style={{ color: "#8758ff" }}>{moment().tz("America/Sao_Paulo").date()}</span> de {month}</h1>
 
-            <input className="search" placeholder="Procurar tarefa" onChange={e => setSearch(e.target.value)} />
+            <div className="search">
+                <label htmlFor="search">
+                    <img src={searchIcon} alt="search" />
+                </label>
+                <input id="search" placeholder="Procurar tarefa" onChange={e => setSearch(e.target.value)} />
+            </div>
 
             {
                 arraySearch.map((x, index) => {

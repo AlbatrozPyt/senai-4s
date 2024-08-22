@@ -44,9 +44,6 @@ export const ToDo = ({
                 </button>
             </div>
 
-            {/* {
-                modal && <Modal fn={updateToDo(index)} setValue={setValue} value={value} />
-            } */}
 
         </div>
     )

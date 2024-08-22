@@ -2,7 +2,7 @@ import { useState } from "react"
 import { Button } from "../Button/Button"
 import "./style.css"
 
-export const Modal = ({ fn, setValue, value, titleModal }) => {
+export const Modal = ({ fn, setValue, value, titleModal, setVisible }) => {
 
     return (
         <div className="background-modal">
@@ -17,6 +17,8 @@ export const Modal = ({ fn, setValue, value, titleModal }) => {
                     fn={fn}
                     btnTitle={'Confirmar tarefa'}
                 />
+
+                <button className="new-task" onClick={() => setVisible(false)}>Cancelar</button>
             </div>
         </div>
     )

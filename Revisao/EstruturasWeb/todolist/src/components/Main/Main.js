@@ -15,6 +15,7 @@ export const Main = () => {
     const [index, setIndex] = useState(false)
     const [mode, setMode] = useState("")
 
+
     function addToDo() {
         array.push({ status: false, description: value })
         setValue("")
@@ -80,12 +81,20 @@ export const Main = () => {
 
             <Button fn={() => setModal(true)} btnTitle={'Nova tarefa'} />
 
+
             {
-                modal && <Modal titleModal={'Descreva sua tarefa'} setValue={setValue} fn={addToDo} value={value} />
+                modal && <Modal titleModal={'Descreva sua tarefa'} setValue={setValue} fn={addToDo} value={value} setVisible={setModal} />
             }
 
             {
-                modalUpdate && <Modal titleModal={'Editar sua tarefa'} setValue={setValue} fn={updateToDo}  value={value} />
+                modalUpdate &&
+                <Modal
+                    titleModal={'Editar sua tarefa'}
+                    setValue={setValue}
+                    value={value}
+                    setVisible={setModalUpdate}
+                    fn={updateToDo}
+                />
             }
         </main>
     )

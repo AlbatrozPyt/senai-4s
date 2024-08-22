@@ -1,12 +1,36 @@
+@keyframes border-button {
+    0% {
+        box-shadow: 0px 0px 12px #6c45ce;
+    }
+
+    50% {
+        box-shadow: 0px 0px 12px #6c45ce20;
+    }
+
+    100% {
+        box-shadow: 0px 0px 12px #6c45ce;
+    }
+}
+
 .new-task {
+    cursor: pointer;
     justify-self: end;
     width: 200px;
     height: 50px;
-    border: 2px solid #FCFCFC;
-    background-color: #6c45ce;
+    /* border: 2px solid #FCFCFC; */
+    border: none;
     font-family: Opens_Sans;
     font-weight: 700;
     font-size: 17px;
     color: #FCFCFC;
-    border-radius: 7px;
+    border-radius: 5px;
+    outline: none;
+    transition: .5s;
+    background: #1e123b;
+    box-shadow: 0px 0px 12px #6c45ce;
+}
+
+.new-task:hover {
+    animation: infinite 1.2s border-button;
+    transition: .5s;
 }
